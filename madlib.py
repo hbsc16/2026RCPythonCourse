@@ -1,0 +1,11 @@
+name_1 = input("Please enter a name.")
+animal = input("Please enter an animal.")
+name_2 = input("Please enter a name.")
+i_verb = input("Please enter an intransitive verb.")
+verb = input("Please enter any verb.")
+t_verb = input("Please enter a transitive verb.")
+pl_noun = input("Please enter a plural noun.")
+food_1 = input("Please enter a food.")
+food_2 = input("Please enter a food.")
+
+print(f"My neighbor, {name_1}, has a pet {animal} named {name_2}. Every evening, {name_1} takes {name_2} out to {i_verb}. {name_2} always loves to {verb} and {t_verb} {pl_noun}. When they return home, {name_1} eats {food_1} and feeds {name_2} {food_2}.")
