@@ -5,5 +5,4 @@ hobby = "singing"
 hrsperweek = "2.5"
 print("""My name is Hannah.
 ^_00_^
- ^_00_^
- """)
+ ^_00_^""")
